@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kekgaugetswe</h1>
 <h3 align="center">A passionate Software Engineer, with a strong focus on mastering ASP.NET Core.</h3>
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kekgaugetswe&title=Experience,Commits,Repositories,Followers,PullRequest,Stars,Issues,Reviews" alt="kekgaugetswe" /></a> </p>
 
 ###   ✍️Developer Insights
