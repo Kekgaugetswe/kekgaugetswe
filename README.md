@@ -3,6 +3,33 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kekgaugetswe" alt="kekgaugetswe" /></a> </p>
 
+
+🌱 I’m currently working through the comprehensive ASP.NET Core Developer roadmap, sharpening my skills in areas such as backend development, APIs, cloud infrastructure, and testing.
+
+🌠 My ultimate goal is to gain proficiency across the full stack, becoming capable of building scalable, efficient, and secure web applications from start to finish.
+
+⚙️ My learning journey includes:
+- **Current Focus:** Authentication and authorization with JWT tokens (API and UI)
+- **Frontend:** HTML5, CSS3, JavaScript, React
+- **Backend:** ASP.NET Core, Node.js, .NET Core
+- **Databases:** SQL Server, MySQL, PostgreSQL, MongoDB
+- **DevOps:** Git, Docker, Azure DevOps
+- **Additional Skills:** Exploring real-time communication with SignalR, caching techniques with Redis, and containerization using Docker.
+
+📄 I’m following a detailed roadmap that includes topics such as:
+- .NET 6 and ASP.NET Core fundamentals
+- API development with REST and GraphQL
+- Database integration using Entity Framework Core and Dapper
+- Cloud services and containerization with Docker and Kubernetes
+- Testing frameworks like xUnit, NUnit, and mocking tools
+
+💼 I’m excited to apply these skills in personal and open-source projects, aiming to contribute meaningful solutions while continuously learning.
+
+⚡ Fun facts about me:
+- I enjoy simplifying complex problems and bringing ideas to life with code.
+- I’m passionate about new technologies, and I love experimenting with different tools to improve my development process.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kekgaugetswe-sebati-366962121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kekgaugetswe-sebati-366962121" height="30" width="40" /></a>
