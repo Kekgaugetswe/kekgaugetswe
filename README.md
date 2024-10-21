@@ -20,7 +20,7 @@
 - **Additional Skills:** Exploring real-time communication with SignalR, caching techniques with Redis, and containerization using Docker.
 
 📄 I’m following a detailed roadmap that includes topics such as:
-- .NET 6 and ASP.NET Core fundamentals
+- .NET 8 and ASP.NET Core fundamentals
 - API development with REST and GraphQL
 - Database integration using Entity Framework Core and Dapper
 - Cloud services and containerization with Docker and Kubernetes
