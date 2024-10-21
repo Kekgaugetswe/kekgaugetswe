@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Software Engineer, with a strong focus on mastering ASP.NET Core.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kekgaugetswe" alt="kekgaugetswe" /></a> </p>
-### ✍️Did you know
+
+###   ✍️Did you know
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
